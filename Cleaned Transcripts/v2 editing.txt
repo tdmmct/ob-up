@@ -1,0 +1,9 @@
+â¦ del
+âª del
+=- del
+[*] del
+replace Ã¨ with e 
+replace Ã¼ with u
+replace Ã± with n
+replace Ã¤ with a
+replace Ã© with e

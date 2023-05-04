@@ -9,4 +9,4 @@ Overbaked &amp; Underproofed
 <p>Seasons are labelled with 'S' and their number. Episodes are labelled with 'E' and their number.</p>
 <p>Some files are presented as .xlsx, and some as .txt due to our needs for analysis, however their content remains the same.</p>
 <p>Initial transcripts were collected from subslikescript.com</p>
-<p>Cleaning was done on the files in two stages: one with Python (and in one case, Excel) (documentation on how this was done is in the repo at), and one by hand following that cleaning to pick out any remaining odd characters.</p>
+<p>Documentation on the cleaning process is available in the repository as well.</p>
